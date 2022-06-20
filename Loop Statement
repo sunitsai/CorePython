@@ -1,0 +1,14 @@
+There are 3 type of LOOP : 
+
+
+1) While Loop
+2) Simple For loop
+3) Nested For loop
+
+
+while loop : 
+
+while(condition):
+    body
+    
+    
